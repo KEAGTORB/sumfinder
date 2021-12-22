@@ -8,7 +8,7 @@ pkg install python
 
 pkg install git 
 
-git clone https://github.com/KEAGTORB/sumfinder-.git
+git clone https://github.com/KEAGTORB/sumfinder.git
 
 cd sumfinder 
 
